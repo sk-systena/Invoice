@@ -1,0 +1,12 @@
+[submodule "InvoiceServer"]
+	path = InvoiceServer
+	url = https://github.com/sk-systena/InvoiceServer.git
+[submodule "InvoiceApp"]
+	path = InvoiceApp
+	url = https://github.com/sk-systena/InvoiceApp.git
+[submodule "InvoiceDB"]
+	path = InvoiceDB
+	url = https://github.com/sk-systena/InvoiceDB.git
+[submodule "InvoiceDoc"]
+	path = InvoiceDoc
+	url = https://github.com/sk-systena/InvoiceDoc.git
