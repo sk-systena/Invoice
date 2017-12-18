@@ -10,3 +10,6 @@
 [submodule "InvoiceDoc"]
 	path = InvoiceDoc
 	url = https://github.com/sk-systena/InvoiceDoc.git
+[submodule "InvoiceWeb"]
+	path = InvoiceWeb
+	url = https://github.com/sk-systena/InvoiceWeb.git
